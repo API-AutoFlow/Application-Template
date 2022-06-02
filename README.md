@@ -1,12 +1,12 @@
-<h1 align="center">
+<!-- <h1 align="center">
 <img
 		width="250"
 		alt="To Do Application - Simple"
 		src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/logo.gif">
-</h1>
-<h3 align="center">
+</h1> -->
+<h2 align="center">
 	To Do Application - Simple
-</h3>
+</h2>
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
