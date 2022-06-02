@@ -177,7 +177,7 @@ Import data to data:<br/>
 https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html
 
 
-Use the file **_dump.sql_** to import into your database
+🚨 IMPORTANT: Use the file **_dump.sql_** to import into your database
 
 
 ## Props
