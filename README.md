@@ -9,9 +9,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://www.computerhope.com/jargon/v/version.png" height="15">3.0
-  <img src="https://www.computerhope.com/jargon/v/version.png" height="15">3.0
-  <img src="https://www.computerhope.com/jargon/v/version.png" height="15">3.0
+  <img src="https://github.com/API-AutoFlow/Documentations/blob/master/preview/logo-react.png" height="15">3.0
+  <img src="https://interactor.com/autoflow/wp-content/uploads/sites/2/2020/12/autoflow-logo.png" height="15">3.0
+  <img src="https://github.com/API-AutoFlow/Documentations/blob/master/preview/logo-mysql.png" height="15">3.0
 </p>
 
 <p align="center">
