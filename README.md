@@ -69,10 +69,17 @@ Follow the instructions on the cloud marketplace listing to clone the applicatio
 Not yet listed
 
 #### Google cloud
-Not yet listed -->
+Not yet listed-->
 
 #### Oracle
 [https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332)
+
+<!-- #### Docker
+Not yet listed 
+
+#### Kubernetes
+Not yet listed -->
+
 
 ### Running on the Local Computer
 To run it locally to customize the application, please follow below instructions.
