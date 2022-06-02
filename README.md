@@ -9,13 +9,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/API-AutoFlow/Documentations/blob/master/preview/logo-react.png" height="15">3.0
-  <img src="https://interactor.com/autoflow/wp-content/uploads/sites/2/2020/12/autoflow-logo.png" height="15">3.0
-  <img src="https://github.com/API-AutoFlow/Documentations/blob/master/preview/logo-mysql.png" height="15">3.0
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- use https://shields.io/ to create the image -->
+  
+  [![React](https://img.shields.io/badge/react-v1.1.1-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/coreui/coreui) <img src="https://github.com/API-AutoFlow/Documentations/blob/master/preview/logo-mysql.png" height="15"><span height="15" width="25" backgroundColor="#2cb706">3.0</span>
+    [![MySQL](https://img.shields.io/badge/mysql-v1.1.1-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/coreui/coreui)
+  
 </p>
 
 <p align="center">
-	<img src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/preview.gif" width="300">
+	<img src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/preview.gif">
 </p>
 
 ## Live demo
@@ -23,7 +27,7 @@
 Check the live demo here 👉️ [https://www.interactor.com/demos/to-do-simple](https://www.interactor.com/demos/to-do-simple)
 
 ## Overview
-🚀 **This is a production ready and complete solution that can be deployed in the environment of your choice.** 
+🚀 **This is a production ready and complete solution.  It can be modified for your needs and deployed in the environment of your choice.** 
 
 🎓 **Perfect for learning the fundamentals of API AutoFlow.** 
 
