@@ -101,7 +101,7 @@ Install & Run API AutoFlow packages :
   <summary>► MAC: (press to expand)</summary>
   
   ```
-  cd backend/mac/api_interactor/bin
+  cd backend/macos/api_interactor/bin
   ./api_interactor start 
   ```
   
@@ -122,11 +122,20 @@ Install & Run API AutoFlow packages :
   
   🚨 IMPORTANT: Open the terminal (cmd) using **Run as Administrator**
   ```
-  cd to-do-basic/backend/windows/api_interactor/bin
+  cd /backend/windows/api_interactor/bin
   ./api_interactor install 
   ./api_interactor start 
   ```
+ 
+  Open up the browser and go to below URL
   
+  ```
+  http://localhost:4000
+  ```
+  
+  🚨 IMPORTANT: Run the servers by pressing the ▶️ button
+	
+	
   Reference:
   http://www.interactor.com/product/autoflow/installation/windows
   
