@@ -164,7 +164,7 @@ Install & Run API AutoFlow packages :
 #### Database
 Unfortunately, there's no easy way to just clone the entire database. 
 
-You first need to install the database in your computer and follow the below instructions to dump the data to your newly installed database.
+You first need to install the database in your computer and follow the instructions below to dump the data to your newly installed database.
 
 
 Install MySQL:<br/>
@@ -173,8 +173,11 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/
 Install Workbench:<br/>
 https://dev.mysql.com/downloads/workbench/
 
-Import data:<br/>
+Import data to data:<br/>
 https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html
+
+
+Use the file **_dump.sql_** to import into your database
 
 
 ## Props
