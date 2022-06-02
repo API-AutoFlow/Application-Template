@@ -111,7 +111,7 @@ Install & Run API AutoFlow packages :
   http://localhost:4000
   ```
   
-  Run the servers by pressing the ▶️ button
+  🚨 IMPORTANT: Run the servers by pressing the ▶️ button
   
   Reference:
   http://www.interactor.com/product/autoflow/installation/macos
