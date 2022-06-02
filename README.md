@@ -96,7 +96,7 @@ npm run dev
 Install & Run API AutoFlow packages :
 
 <details open>
-  <summary>MAC:</summary>
+  <summary>► MAC: (press to expand)</summary>
   
   ```
   cd backend/mac/api_interactor/bin
@@ -116,7 +116,7 @@ Install & Run API AutoFlow packages :
 </details>
 
 <details>
-  <summary>Windows:</summary>
+  <summary>► Windows: (press to expand)</summary>
   
   🚨 IMPORTANT: Open the terminal (cmd) using **Run as Administrator**
   ```
@@ -133,7 +133,7 @@ Install & Run API AutoFlow packages :
 
 
 <details>
-  <summary>Linux:</summary>
+  <summary>► Linux: (press to expand)</summary>
   
   Step 1: Download the linux version
   www.interactor.com/product/autoflow/download
@@ -175,7 +175,6 @@ https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/
 
 Install Workbench:<br/>
 https://dev.mysql.com/downloads/workbench/
-</details>
 
 Import data:<br/>
 https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-management.html
