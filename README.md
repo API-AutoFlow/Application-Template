@@ -13,7 +13,9 @@
 <!-- use https://shields.io/ to create the image -->
 <p align="center">
 
-  [![React](https://img.shields.io/badge/react-v1.1.1-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![API AutoFlow](https://img.shields.io/badge/API%20AutoFlow-v1.1.1-2cb706.svg?style=for-the-badge)](https://www.interactor.com//product/autoflow/download)[![MySQL](https://img.shields.io/badge/mysql-v1.1.1-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+<img alt="Last Commit" src="https://img.shields.io/badge/react-v1.1.1-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img alt="Last Commit" src="https://img.shields.io/badge/API%20AutoFlow-v1.1.1-2cb706.svg?style=for-the-badge">
+<img alt="Last Commit" src="https://img.shields.io/badge/mysql-v1.1.1-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 </p>
 
