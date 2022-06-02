@@ -57,9 +57,6 @@ The UI of this project was inspired by this [amazing Radon333's work on todo-app
 
 The easiest way is to clone the entire application from the cloud marketplace. But, feel free to customize the application by running it on your local computer.
 
-👏 **Thank you for your stars, your issues, and your pull requests. I really love ❤️ open source solutions.**
-
-
 ### Running on the Cloud
 Follow the instructions on the cloud marketplace listing to clone the application (instance) to your account.
 
