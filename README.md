@@ -60,11 +60,11 @@ The easiest way is to clone the entire application from the cloud marketplace. B
 ### Running on the Cloud
 Follow the instructions on the cloud marketplace listing to clone the application (instance) to your account.
 
-#### Amazon AWS
+<!-- #### Amazon AWS
 Not yet listed
 
 #### Google cloud
-Not yet listed
+Not yet listed -->
 
 #### Oracle
 [https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332)
@@ -92,7 +92,7 @@ npm run dev
 #### Backend
 Install & Run API AutoFlow packages :
 
-<details open>
+<details>
   <summary>► MAC: (press to expand)</summary>
   
   ```
@@ -263,8 +263,8 @@ task:
 Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lot to me and keeps me going!
 
 
-## Contributors
-
+<!-- ## Contributors
+ -->
 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
