@@ -42,7 +42,7 @@ More features will be added to the project in the future.
 
 The UI of this project was inspired by this [amazing Radon333's work on todo-app](https://github.com/Radon333/todo-app).
 
-
+<!--
 ## Screenshots
 
 <img
@@ -53,7 +53,7 @@ The UI of this project was inspired by this [amazing Radon333's work on todo-app
 		width="210"
 		alt="Capture 2"
 		src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/capture-2.png">
-
+-->
 
 ## Installation and usage
 
