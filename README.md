@@ -23,9 +23,11 @@
 	<img src="https://github.com/API-AutoFlow/To-Do-Basic/blob/master/preview/preview.gif">
 </p>
 
+<!--
 ## Live demo
 
 Check the live demo here 👉️ [https://www.interactor.com/demos/to-do-simple](https://www.interactor.com/demos/to-do-simple)
+-->
 
 ## Overview
 🚀 **This is a production ready and complete solution.  It can be modified for your needs and deployed in the environment of your choice.** 
@@ -69,12 +71,12 @@ Follow the instructions on the cloud marketplace listing to clone the applicatio
 Not yet listed
 
 #### Google cloud
-Not yet listed-->
+Not yet listed
 
 #### Oracle
 [https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/95466332)
 
-<!-- #### Docker
+#### Docker
 Not yet listed 
 
 #### Kubernetes
@@ -84,6 +86,7 @@ Not yet listed -->
 ### Running on the Local Computer
 To run it locally to customize the application, please follow below instructions.
 
+<!--
 #### Download 
 Clone this repository :
 
@@ -91,6 +94,7 @@ Clone this repository :
 git clone https://github.com/API-AutoFlow/To-Do-Basic.git
 
 ```
+-->
 
 #### Frontend
 Install & Run ReactJS Package:
@@ -119,10 +123,12 @@ Install & Run API AutoFlow packages :
   ```
   
   🚨 IMPORTANT: Run the servers by pressing the ▶️ button
-  
+
+<!--
   Reference:
   http://www.interactor.com/product/autoflow/installation/macos
 </details>
+-->
 
 <details>
   <summary>► Windows: (press to expand)</summary>
@@ -142,9 +148,10 @@ Install & Run API AutoFlow packages :
   
   🚨 IMPORTANT 🚨 Run the servers by pressing the ▶️ button
 	
-	
+<!--	
   Reference:
   http://www.interactor.com/product/autoflow/installation/windows
+ --> 
   
 </details>
 
@@ -154,7 +161,7 @@ Install & Run API AutoFlow packages :
   <summary>► Linux: (press to expand)</summary>
   
   Step 1: Download the linux version
-  www.interactor.com/product/autoflow/download
+  https://www.interactor.com/product/autoflow/download
   
   Step 2: Open the terminal after downloading the software and Untar the file. For example: 
   
@@ -179,7 +186,7 @@ Install & Run API AutoFlow packages :
   Step 4: Run the servers by pressing the ▶️ button
   
   Reference:
-  http://www.interactor.com/product/autoflow/installation/linux
+  https://www.interactor.com/product/autoflow/installation/linux
 </details>
 
 #### Database
